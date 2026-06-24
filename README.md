@@ -1,5 +1,4 @@
 # Pet-Adoption-Website
-# Pet Adoption Website
 
 A collaborative web development project built to provide a simple and user-friendly platform for pet adoption. The website, **Adaptly**, allows users to browse available pets and submit adoption requests.
 
