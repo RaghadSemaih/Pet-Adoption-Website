@@ -1,4 +1,4 @@
-# adoption-website
+# Pet-Adoption-Website
 This project was developed by me and my team. The idea was to build a simple yet functional website for pet adoption we named it adaptly, where users can view and adopt pets.
 
 Technologies Used:
