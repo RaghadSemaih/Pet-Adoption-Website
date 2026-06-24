@@ -1,16 +1,38 @@
 # Pet-Adoption-Website
-This project was developed by me and my team. The idea was to build a simple yet functional website for pet adoption we named it adaptly, where users can view and adopt pets.
+# Pet Adoption Website
 
-Technologies Used:
+A collaborative web development project built to provide a simple and user-friendly platform for pet adoption. The website, **Adaptly**, allows users to browse available pets and submit adoption requests.
 
-HTML
-CSS
-JavaScript
-PHP
-MySQL
-My Role: I was responsible for creating and designing the Home Page (index), connecting it to the database, and managing the backend database operations. This included:
+## Technologies Used
 
-Fetching dynamic data from the database and displaying it on the homepage.
-Writing PHP scripts for database interaction.
-Designing and maintaining the structure of the database.
-This project helped me gain hands-on experience in front-end and back-end integration, as well as working in a team to complete a real-world web system.
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+## My Contributions
+
+As a member of the development team, I was responsible for:
+
+* Designing and developing the **Home Page (index)**.
+* Connecting the homepage to the MySQL database.
+* Fetching and displaying dynamic pet data using PHP.
+* Writing PHP scripts for database interactions.
+* Designing and maintaining the database structure.
+
+## Project Highlights
+
+* Dynamic content retrieved from a MySQL database.
+* Responsive and user-friendly homepage.
+* Integration between front-end and back-end components.
+* Collaborative development using teamwork and task distribution.
+
+## What I Learned
+
+Through this project, I gained practical experience in:
+
+* Front-end and back-end integration.
+* PHP and MySQL database development.
+* Dynamic web content generation.
+* Team collaboration and software development workflow.
