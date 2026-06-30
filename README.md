@@ -18,7 +18,7 @@ As a member of the development team, I was responsible for:
 * Connecting the homepage to the MySQL database.
 * Fetching and displaying dynamic pet data using PHP.
 * Writing PHP scripts for database interactions.
-* Designing and maintaining the database structure.
+* Collaborated on the database design and integration.
 
 ## Project Highlights
 
